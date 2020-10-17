@@ -1,0 +1,7 @@
+config.ini
+venv/
+session.json
+aliases.dat
+bot_data.dat
+.idea/
+__pycache__/
